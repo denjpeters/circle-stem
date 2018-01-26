@@ -1,0 +1,8 @@
+
+.DS_Store
+*.iml
+.idea/deployment.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/webResources.xml
+.idea/workspace.xml
